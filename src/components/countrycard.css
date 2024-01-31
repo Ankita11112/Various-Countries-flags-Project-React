@@ -1,0 +1,11 @@
+.MuiCard-root.dark{
+    color:rgb(163, 252, 252) !important;
+    /* background-color:#273cma ; */
+    background-image: linear-gradient(to right, #191e27 0%, #255e78 51%, #151d2a 100%) !important;
+}
+
+.MuiCard-root.dark .MuiCardContent-root a h5, .MuiCard-root.dark .MuiCardContent-root p{
+    color:rgb(163, 252, 252) !important;
+    /* color:  ; */
+}
+
